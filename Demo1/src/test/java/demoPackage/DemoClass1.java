@@ -16,5 +16,11 @@ public class DemoClass1 {
 		System.out.println("this is m2 method");
 
 	}
+	@Test
+	public void m3() {
+		// TODO Auto-generated method stub
+		System.out.println("this is m3 method");
+
+	}
 }
 
